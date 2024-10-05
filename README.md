@@ -8,6 +8,7 @@
 - 🌱 **I’m currently learning:** advanced topics in **Deep Learning**, **Computer Vision**, and **Robotics**, and working on exciting **AI/ML** projects. I have experience working with **YOLOv8**
 
 - 💼 **Projects**
+  
   🤖 OCR System for Flipkart Grid & Computer Vision Challenge: Developed an **OCR** system using **deep learning**, focusing on text classification and Feature Extraction accuracy, also the Freshness of vegetables and fruits and participated in the Flipkart Grid challenge solving classification problems. 
   
   🦾 Logistics Co-Bot for E-Yantra & Robotic Arm Integration: Designed and developed a co-bot with a robotic arm for logistics automation, addressing real-world challenges in autonomous manipulation.
