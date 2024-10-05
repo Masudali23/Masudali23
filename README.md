@@ -1,3 +1,4 @@
+![logo](https://github.com/Masudali23/Masudali23/blob/main/Banner.jpg)
 <h1 align="center">Hi there! 👋 I'm Masud Ali</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a student at IIT (BHU) Varanasi with a passion for Robotics, Computer Vision, Deep Learning, AI/ML Engineering, and making positive contributions to the Tech Community. Here's a little more about me:eveloper from India</h3>
 
