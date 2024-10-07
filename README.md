@@ -1,32 +1,45 @@
 ![logo](https://github.com/Masudali23/Masudali23/blob/main/Banner.jpg)
 <h1 align="center">Hi there! 👋 I'm Masud Ali</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a student at IIT (BHU) Varanasi with a passion for Robotics, Computer Vision, Deep Learning, AI/ML Engineering, and making positive contributions to the Tech Community. Here's a little more about me:eveloper from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I am a student at IIT (BHU) Varanasi, passionate about technology and innovation. I love working on projects that make a positive impact and contribute to the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudali23&label=Profile%20views&color=0e75b6&style=flat" alt="masudali23" /> </p>
+<h3 align="left">Here's a little more about me:</h3>
 
-- 👀 **I’m Interested In:** Exploring **Deep Learning** and **AI/ML** to solve real-world challenges. Working on **Computer Vision** projects, especially in object detection, **OCR**, and **image processing**. Developing intelligent Robotics systems for automation and manipulation tasks. Autonomous systems such as self-driving cars, drones, and co-bots. Participating in hackathons and technical challenges to sharpen my skills and collaborate with like-minded peers.
+# 🛠️ Skills and Tools
+- **Robot Operating System (ROS):** Building and managing robot software.
+- **Computer Vision:** Enabling robots to perceive and understand their environment.
+- **Deep Learning:** Advanced skills in object detection, OCR, and image processing.
+- **PX4 Autopilot:** Controlling and simulating drones with real-time flight capabilities.
+- **Control Systems:** Implementing dynamic control for robots and automation systems.
 
-- 🌱 **I’m currently learning:** advanced topics in **Deep Learning**, **Computer Vision**, and **Robotics**, and working on exciting **AI/ML** projects. I have experience working with **YOLOv8**
+## 📁 Projects Overview
+Here’s a glimpse of my completed projects:
 
-- 💼 **Projects**
-  
-  🤖 OCR System for Flipkart Grid & Computer Vision Challenge: Developed an **OCR** system using **deep learning**, focusing on text classification and Feature Extraction accuracy, also the Freshness of vegetables and fruits and participated in the Flipkart Grid challenge solving classification problems. 
-  
-  🦾 Logistics Co-Bot for E-Yantra & Robotic Arm Integration: Designed and developed a co-bot with a robotic arm for logistics automation, addressing real-world challenges in autonomous manipulation.
-  
-  🤖 Robocon & Lam Research Challenges: Contributed to robot design, simulation, and vision tasks in Robocon 2024, helping the team qualify for national-level stages. Currently working on control systems and automation for the Lam Research Challenge.
-  
-  🚁 Inter IIT Prep-a-thon (Drone Control & Weed Detection): Solved problem statements related to drone control using **PX-4 Autopilot** and **MavROS**. Implemented path planning and trained a model to detect weeds, creating a **heatmap** for autonomous agricultural applications.
+- **Agricultural Theme Manual and Autonomous Bot (ROBOCON 2024) – Team Robocon, IIT BHU**  
+  Developed autonomous and manual bots for agricultural tasks using ROS, computer vision, and custom control strategies, integrating 2D LIDAR, IMU, and YOLO for object detection and navigation.
+- **Path Planning and Execution for a PX4 Iris Drone (Inter IIT Prepathon)**  
+  Simulated and controlled an Iris PX4 drone using ROS 2 and MAVROS for real-time obstacle avoidance and autonomous field surveys, with integrated YOLO-based weed detection and image segmentation.
 
-- 💞️💞️ **I’m Looking to Collaborate On AI/ML projects involving computer vision, deep learning, or natural language processing. Robotics challenges and competitions, particularly those involving autonomous systems. Open-source contributions in AI, machine learning, or robotics-related projects.**
+## 🔧 Currently Working On
+Here’s a glimpse of my ongoing projects:
 
-- 📫 **How to reach me:**
+- **OCR System for Flipkart Grid & Computer Vision Challenge**  
+  Developed an OCR system using deep learning focused on text classification and feature extraction accuracy, along with evaluating the freshness of vegetables and fruits. Participated in the Flipkart Grid challenge, tackling classification problems.
+- **Logistics Co-Bot for E-Yantra & Robotic Arm Integration**  
+  Designed and developed a co-bot with a robotic arm for logistics automation, addressing real-world challenges in autonomous manipulation.
+- **Robocon 2025 | Team Robocon IIT (BHU)**  
+  Developing a bot for Robocon 2025 capable of dribbling, shooting, passing, and receiving a basketball using hydraulic actuators for precision, with CAD design and cost-effective hardware solutions.
+
+## 🚀 Let's Collaborate
+I’m always looking for opportunities to collaborate on exciting projects, whether in AI, machine learning, robotics, or any other innovative fields. If you have a challenge or idea in mind, feel free to reach out!
+
+
+## 📫 How to reach me:
   
   **Email: alimasud2023@gmail.com**
   
   **LinkedIn: www.linkedin.com/in/masud-ali-637722298**
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
