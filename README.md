@@ -15,18 +15,22 @@
 ## 📁 Projects Overview
 Here’s a glimpse of my completed projects:
 
-- **Agricultural Theme Manual and Autonomous Bot (ROBOCON 2024) – Team Robocon, IIT BHU**  
+- [**Agricultural Theme Manual and Autonomous Bot (ROBOCON 2024) – Team Robocon, IIT BHU**](https://github.com/Masudali23/Robocon-2024)  
   Developed autonomous and manual bots for agricultural tasks using ROS, computer vision, and custom control strategies, integrating 2D LIDAR, IMU, and YOLO for object detection and navigation.
-- **Path Planning and Execution for a PX4 Iris Drone (Inter IIT Prepathon)**  
+
+- [**Path Planning and Execution for a PX4 Iris Drone (Inter IIT Prepathon)**](https://github.com/Masudali23/PX4-Iris-Drone-Path-Planning-CV)  
   Simulated and controlled an Iris PX4 drone using ROS 2 and MAVROS for real-time obstacle avoidance and autonomous field surveys, with integrated YOLO-based weed detection and image segmentation.
+
 
 ## 🔧 Currently Working On
 Here’s a glimpse of my ongoing projects:
 
 - **OCR System for Flipkart Grid & Computer Vision Challenge**  
   Developed an OCR system using deep learning focused on text classification and feature extraction accuracy, along with evaluating the freshness of vegetables and fruits. Participated in the Flipkart Grid challenge, tackling classification problems.
+  
 - **Logistics Co-Bot for E-Yantra & Robotic Arm Integration**  
   Designed and developed a co-bot with a robotic arm for logistics automation, addressing real-world challenges in autonomous manipulation.
+  
 - **Robocon 2025 | Team Robocon IIT (BHU)**  
   Developing a bot for Robocon 2025 capable of dribbling, shooting, passing, and receiving a basketball using hydraulic actuators for precision, with CAD design and cost-effective hardware solutions.
 
