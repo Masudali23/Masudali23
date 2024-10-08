@@ -21,6 +21,9 @@ Here’s a glimpse of my completed projects:
 - [**Path Planning and Execution for a PX4 Iris Drone (Inter IIT Prepathon)**](https://github.com/Masudali23/PX4-Iris-Drone-Path-Planning-CV)  
   Simulated and controlled an Iris PX4 drone using ROS 2 and MAVROS for real-time obstacle avoidance and autonomous field surveys, with integrated YOLO-based weed detection and image segmentation.
 
+- [**Extended Kalman Filter (EKF) for Ground Bot Tracking**](https://github.com/Masudali23/EKF_Tracking_Of_Ground_Bot)  
+  Implemented the Extended Kalman Filter to estimate the position and velocity of a ground bot by fusing noisy sensor data from Lidar and Radar, demonstrating real-time state estimation and performance evaluation against ground truth data.
+
 
 ## 🔧 Currently Working On
 Here’s a glimpse of my ongoing projects:
